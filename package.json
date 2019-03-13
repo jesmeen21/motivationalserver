@@ -1,0 +1,27 @@
+{
+  "name": "motivationalserver",
+  "version": "1.0.0",
+  "description": "A motivational server",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesmeen21/motivationalserver.git"
+  },
+  "author": "jesmeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesmeen21/motivationalserver/issues"
+  },
+  "homepage": "https://github.com/jesmeen21/motivationalserver#readme"
+}
